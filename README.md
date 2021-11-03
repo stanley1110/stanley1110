@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stanley1110
 - 👀 I’m interested in providing business revenue driving solutions
-- 🌱 I’m currently learning reactJS and nodeJD
+- 🌱 I’m currently learning react and nodeJs
 - 💞️ I’m looking to collaborate on business focused web app projects
 - 📫 How to reach me via email edohemeka2@gmail.com
 
